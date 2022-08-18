@@ -2,6 +2,6 @@
 Git flow basics
 
 ## Basica commands
-´´´sh
+'''sh
 $ git clone <repo_name>
-´´´
+'''
