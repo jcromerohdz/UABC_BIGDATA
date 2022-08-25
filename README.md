@@ -18,3 +18,9 @@ $ git commit -m "A descriptive message"
 $ git push
 
 ```
+
+## Practices 
+- Practice one
+```python
+print("Practice one")
+```
